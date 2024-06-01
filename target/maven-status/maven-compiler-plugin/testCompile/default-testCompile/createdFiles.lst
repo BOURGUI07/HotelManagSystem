@@ -1,0 +1,6 @@
+logic\AdminAccountManagTest.class
+logic\ReservationTest.class
+logic\RoomAndGuestManagTest.class
+logic\GuestTest.class
+domain\RoomTest.class
+logic\StayTest.class
