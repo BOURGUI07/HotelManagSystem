@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a console-based application developed in Core Java, designed to manage a hotel's operations. It serves as a management system where administrators can perform various tasks related to hotel management, including managing rooms, reservations, and customer information. The application is built to demonstrate object-oriented programming principles, file handling, console I/O operations, and unit testing with JUnit in Java, tailored specifically for the hotel industry.
+This project is a console-based application developed in Core Java, designed to manage a hotel's operations. It serves as a management system where administrators can perform various tasks related to hotel management, including managing rooms, reservations, and customer information. The application is built to demonstrate object-oriented programming principles, console I/O operations, and unit testing with JUnit in Java, tailored specifically for the hotel industry.
 
 ## Features
 
